@@ -8,13 +8,13 @@
   <img src="https://img.shields.io/badge/numpy-1.26.4-red" alt="numpy Version"/>
 </p>
 
-A machine learning project to predict restaurant prices using Zomato data. This project includes data exploration, preprocessing, model training, and inference scripts.
+A machine learning project to predict restaurant prices using Zomato data. This project includes data exploration, preprocessing and model training.
 
 ---
 
 ## 🚀 Demo
 
-- 🔗 **Notebook (EDA & Model Training):** See `notebooks/` for interactive analysis and model building
+- 🔗 **Notebook (EDA & Model Training):** See `Jupyter notebooks/` for interactive analysis and model building
 - 🔗 **Dataset:** See `data/zomato.csv`
 
 ---
@@ -25,7 +25,7 @@ A machine learning project to predict restaurant prices using Zomato data. This 
 zomato-price-predictor/
 ├── data/                      # Raw or cleaned dataset
 │   └── zomato.csv             # Zomato restaurant data
-├── Code notebooks/            # Jupyter notebooks (EDA, model training)
+├── Jupyter notebooks/            # Jupyter notebooks (EDA, model training)
 │   └── Zomato_price_predictor.ipynb
 ├── requirements.txt           # List of dependencies
 ├── README.md                  # Project description & usage
